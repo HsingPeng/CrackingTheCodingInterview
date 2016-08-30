@@ -95,8 +95,8 @@ int print()
 	}
 
 	static int count = 0;
-	count++;
 	printf("TOTAL STEP %d\n", count);
+	count++;
 
 	return 0;
 }
